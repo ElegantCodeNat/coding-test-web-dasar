@@ -9,6 +9,10 @@
 function jumlahArray(arr){
     let jumlah = 0;
     for (let i = 0; i < arr.length; i++){
-        jumlah += arr[i]
+        jumlah += arr[i];
     }
+    return jumlah;
 }
+
+const bilang [1,2,3,4,5]
+console.log()
