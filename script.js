@@ -9,13 +9,13 @@
 function jumlahArray(arr){
     let jumlah = 0;
     for (let i = 0; i < arr.length; i++){
+        
         jumlah += arr[i];
     }
     return jumlah;
 }
 
-const angka [1,2,3,4,5];
-const angka [1,2];
+const angka = [1,2,3,4,5];
 
 const result = jumlahArray(angka);
 console.log(result);
