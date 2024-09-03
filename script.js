@@ -17,4 +17,5 @@ function jumlahArray(arr){
 const angka [1,2,3,4,5];
 const angka [1,2];
 
-console.log()
+const result = jumlahArray(angka);
+console.log(result);
